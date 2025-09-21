@@ -204,28 +204,3 @@ Mental health challenges among youth are increasing due to stress, anxiety, and 
 
 </div>
 
----
-
-👥 Contributors
-<div align="center">
-🌟 Meet Our Amazing Team
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/KanishaSharma11">
-        <sub><b>Kanisha Ravindra Sharma</b></sub>
-      </a><br />
-      <sub>🚀 Project Admin</sub><br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/omroy07">
-        <sub><b>Om Roy</b></sub>
-      </a><br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/ShubhangiRoy12">
-        <sub><b>Shubhangi Roy</b></sub>
-      </a><br />
-    </td>
-  </tr>
-</table>
