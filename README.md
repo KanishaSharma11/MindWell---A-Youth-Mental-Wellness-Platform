@@ -142,6 +142,7 @@ Mental health challenges among youth are increasing due to stress, anxiety, and 
 
 ### Data & Visualization  
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ### AI & ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
