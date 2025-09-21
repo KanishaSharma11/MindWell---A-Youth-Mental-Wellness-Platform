@@ -206,10 +206,10 @@ Mental health challenges among youth are increasing due to stress, anxiety, and 
 
 ---
 
-👥 Team
+## 👥 Team
 
-Kanisha Ravindra Sharma - Project Admin
+### Kanisha Ravindra Sharma - Project Admin
 
-Om Roy
+### Om Roy
 
-Shubhnagi Roy
+### Shubhnagi Roy
