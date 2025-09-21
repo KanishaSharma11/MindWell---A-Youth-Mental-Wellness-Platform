@@ -86,7 +86,7 @@ Mental health challenges among youth are increasing due to stress, anxiety, and 
 </details>
 
 <details open>
-<summary><h3>🎮 Interactive Dance Game</h3></summary>
+<summary><h3>🎮 Single Player Game</h3></summary>
 
 - 🕺 **Pose Detection**: Advanced Mediapipe technology for accurate movement tracking
 - 📺 **Split-Screen View**: Compare your moves with reference videos
