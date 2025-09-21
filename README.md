@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![MindWell Logo](https://via.placeholder.com/200x100/FF69B4/FFFFFF?text=MindWell+🌸)
-
 ### *An AI-powered platform for young mental wellness combining emotional support, self-reflection, safe communities, and engaging activities.*
 
 </div>
@@ -175,7 +173,6 @@ Mental health challenges among youth are increasing due to stress, anxiety, and 
 
 ## 🚀 Installation
 
-<details>
 <summary><h3>📋 Prerequisites</h3></summary>
 
 - Python 3.8 or higher
@@ -185,9 +182,7 @@ Mental health challenges among youth are increasing due to stress, anxiety, and 
 - HTML5, CSS3, JavaScript
 - Tensorflow, Keras
 
-</details>
-
-<details>
+---
 
 ### 💡 **Feature Usage Tips**
 
@@ -211,21 +206,16 @@ Mental health challenges among youth are increasing due to stress, anxiety, and 
 
 ---
 
-## 👥 Contributors
-
+👥 Contributors
 <div align="center">
-
-### 🌟 **Meet Our Amazing Team**
-
-<!-- Replace with actual contributor information -->
-
+🌟 Meet Our Amazing Team
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/KanishaSharma11">
         <sub><b>Kanisha Ravindra Sharma</b></sub>
       </a><br />
-      <sub> Project Admin </sub><br />
+      <sub>🚀 Project Admin</sub><br />
     </td>
     <td align="center">
       <a href="https://github.com/omroy07">
@@ -239,7 +229,3 @@ Mental health challenges among youth are increasing due to stress, anxiety, and 
     </td>
   </tr>
 </table>
-
----
-
-</div>
