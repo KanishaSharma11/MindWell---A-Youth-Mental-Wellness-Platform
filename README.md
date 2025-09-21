@@ -119,7 +119,7 @@ Mental health challenges among youth are increasing due to stress, anxiety, and 
 
 | Feature | Screenshot |
 |---------|------------|
-| **🏠 Home Dashboard** | ![Home]([https://via.placeholder.com/400x250/FF69B4/FFFFFF?text=Home+Dashboard+Screenshot](https://github.com/KanishaSharma11/MindWell---A-Youth-Mental-Wellness-Platform/blob/main/images/Home.png)) |
+| **🏠 Home Dashboard** | ![Home](https://via.placeholder.com/400x250/FF69B4/FFFFFF?text=Home+Dashboard+Screenshot](https://github.com/KanishaSharma11/MindWell---A-Youth-Mental-Wellness-Platform/blob/main/images/Home.png) |
 | **🤖 AI Chat Interface** | ![Chat](https://via.placeholder.com/400x250/4CAF50/FFFFFF?text=AI+Chat+Screenshot) |
 | **📖 Diary & Analytics** | ![Diary](https://via.placeholder.com/400x250/2196F3/FFFFFF?text=Diary+%26+Analytics+Screenshot) |
 | **🌍 Community Hub** | ![Community](https://via.placeholder.com/400x250/FF9800/FFFFFF?text=Community+Hub+Screenshot) |
